@@ -1,1 +1,1 @@
-# react-crud-example-app
+## Modern React with Redux Udemy Course example app
